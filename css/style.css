@@ -1,0 +1,49 @@
+.snack1-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #822222;
+    color: #fff;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.snack2-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #FFA07A;
+    color: black;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.snack3-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #00FA9A;
+    color: black;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.snack4-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #191970;
+    color: #fff;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.snack5-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #EEE8AA;
+    color: black;
+    height: 200px;
+    margin-bottom: 10px;
+}
